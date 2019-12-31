@@ -1,6 +1,5 @@
 /*
     Name:       Mihir Patel
-    Purpose:    Attempting the extracredit to print a random flickr image on the console with pure functions.
     Note:       Please download the appropriate node_module for jpg since "node install"
                 doesn't download this folder. And without it I get the error. Alternate, you can place the 
                 jpgjs inside the node_module; it isincluded with this submission. 

@@ -30,6 +30,8 @@ This program is made for practicing pure functional programming. My functions wi
 
 I have used Ramda-> [here](https://ramdajs.com) and Javascript to implement the functions above. Each of these functions are  made up of smaller more module functions. 
 
+Lastly, **print_a_dog.js** file is a small program will print out an image to the terminal from the dogs.json file. This mini program takes one command line argument, that will be converted to a number between 0 and 19, representing which image from the dogs.json JSON file to print to the terminal. If an invalid number (outside 0 to 19 or just not a number) or has no value, you can assume the image to print is at image 0.
+
 npm and Node.js
 ---------------
 To work on this program, Node.js can be used. Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. You can install Node.js by downloading the package [at](https://nodejs.org/). After installing, you will have both Node and the Node Package Manager (npm). npm is a package manager for the JavaScript programming language and can be used to manage workspaces, install dependencies, and many other features.    

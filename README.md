@@ -6,6 +6,10 @@ Author
 -------
 Mihir Patel   
 
+Status
+-------
+Completed
+
 Description
 -------------   
 This program is made for practicing pure functional programming. My functions will be operating on  JSON files, retrieved from the Flickr public API for images containing the tags dogs (dogs.json) and landscapes (landscapes.json). These are some functions that uses flickr data:
